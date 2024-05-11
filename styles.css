@@ -1,0 +1,52 @@
+body {
+    background-image: url('snoopy.jpg'); /* Reemplaza 'nombre-de-tu-imagen.jpg' con el nombre de tu imagen */
+    background-size: cover;
+    background-position: center 20%;
+}
+main {
+    max-width: 200px; /* Cambia el valor según el ancho deseado */
+    margin: 0 auto; /* Esto centra el contenido */
+    padding: 20px;
+}
+
+header {
+    text-align: center; /* Centra el texto del encabezado */
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+#links {
+    margin-top: 20px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+#links a {
+    color: white; /* Cambia el color del texto */
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); /* Agrega una sombra al texto */
+}
+#links a {
+    font-size: 48px; /* Aumenta el tamaño del texto de los enlaces */
+}
+
+
